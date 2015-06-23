@@ -18,6 +18,7 @@ public class MainActivity extends ActionBarActivity {
 
         //sssss
         Toast.makeText(this, "sssss", Toast.LENGTH_LONG).show();
+        //sss
     }
 
     @Override
