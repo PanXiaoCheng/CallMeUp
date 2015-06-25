@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#ff33b5e5</color>
+    <color name="orange">#ffffbb33</color>
+    <color name="green">#ff99cc00</color>
+    <color name="purple">#ffaa66cc</color>
+    <color name="red">#ffff4444</color>
+
+    <!--acctivity_main-->
+    <color name="bottom_navigation_color">#151515</color>
+    <color name="bottom_navigation_textColor">#82858b</color>
+</resources>
